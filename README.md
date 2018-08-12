@@ -2,4 +2,4 @@
 
 | Name | Author | Finished | 
 | ---- | ---- | ---- | 
-| Grokking Algorithms | Aditya Y. Bhargava | NO | 
+| Grokking Algorithms | Aditya Y. Bhargava | YES | 
